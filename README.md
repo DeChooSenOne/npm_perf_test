@@ -38,7 +38,7 @@ Command used to run the tests:
 
 To run the tests, you can run the following commands:
 
-- `bun i` -> This command will install the dependencies.
-- `bun time` -> This command will start the server.
-- `bun test-cpu` -> This command will run the CPU-bound test.
-- `bun test-io` -> This command will run the i/o-bound test.
+- `npm i` -> This command will install the dependencies.
+- `npm start` -> This command will start the server.
+- `npm run test-cpu` -> This command will run the CPU-bound test.
+- `npm run test-io` -> This command will run the i/o-bound test.
